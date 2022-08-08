@@ -26,6 +26,9 @@ Key points of VGG16 architecture:
 6. Another version is VGG19: it has 19 convolutional layers.
 7. It takes input sizes - 224, 224, 3 for images.
 
+![image](https://user-images.githubusercontent.com/97305078/183474126-d9ca4948-b1e7-486a-9def-3c135411cc88.png)
+
+
 # **Practical Approach/ Code in Python:**
 
 The steps I followed to implement VGG16 on my dataset are explained below:
