@@ -49,3 +49,10 @@ I have used ‘Adam’ as an optimizer, sparse categorical cross-entropy as loss
 
 13.  Now, train our model for 50 epochs.
 14. Next step is to test our model on the test set.
+
+Results obtained for COVID-19 cough (image (A)), breath (image (B)) and speech (image (C)) sounds are: 
+
+![image](https://user-images.githubusercontent.com/97305078/183474416-f1bc8531-a9e5-4c23-9e03-5177d452cfc1.png)
+
+![image](https://user-images.githubusercontent.com/97305078/183474449-7024328c-78b7-495d-9474-9026cd6cfc92.png)
+
